@@ -1,0 +1,5 @@
+Data analysis
+Machine Learning
+Coding
+SQL
+Git
