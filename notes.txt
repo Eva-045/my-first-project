@@ -1,0 +1,5 @@
+1. Create files
+2. Add data into the files created
+3. Stage the files
+4. Commit data
+5. Push data
